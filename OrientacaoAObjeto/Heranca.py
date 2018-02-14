@@ -1,6 +1,6 @@
 """
     HERANÇA - A classe filha herda da classe pai/mãe os seus métodos, atributos, estados e comportamento, podendo especializar
-              uma classe.
+              uma classe específica.
 """
 # Para usar a herança é necessário importa o módulo getcwd de OS para que a classe mãe possa ser trazisa para o contexo do programa
 # Evitar usar o import BIBLIOTECA pois tratrá TODAS os métodos da bibiloteca, carregando desnecessiariamente o sistema.
