@@ -1,4 +1,6 @@
 """
+LISTS
+
 Lists are variables with an index, like an array. Use [] to set a list
 Use DIR to see all the methods this variable acceppts
 """
@@ -21,8 +23,8 @@ print(vListVar)
 print(vListVar.reverse())
 
 # INSERT: inset a data in an index you want.It takes 2 parameters:
-    # the position you want to add the new data (integer started at 0)
-    # the data itself
+# the position you want to add the new data (integer started at 0)
+# the data itself
 vListVar.insert(2, 'Go')
 print(vListVar)
 
@@ -33,7 +35,7 @@ print(vListVar)
 # COUNT: returns how many times a data shows in the list
 print(vListVar.count('Go'))
 
-#REMOVE: removes a data from the list
+# REMOVE: removes a data from the list
 vListVar.remove('Java')
 print(vListVar)
 
