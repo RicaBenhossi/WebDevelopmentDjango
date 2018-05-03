@@ -19,4 +19,6 @@ while controler >= 0:
     controler -= 1
     if (controler < 0):
         print("DONE!")
-        
+
+list_a = [3, 9, 17, 15, 19]
+list_b = [2, 4, 8, 10, 30, 40, 50, 60, 70, 80, 90]
