@@ -4,6 +4,8 @@ LOOP STRUCTURES
 Python has only 2 types of loop: FOR and WHILE.
 """
 
+def teste()
+
 # FOR structure: run an instruction for X times.
 lang = "Python"
 for x in lang:
@@ -21,4 +23,4 @@ while controler >= 0:
         print("DONE!")
 
 list_a = [3, 9, 17, 15, 19]
-list_b = [2, 4, 8, 10, 30, 40, 50, 60, 70, 80, 90]
+list_b = {'a': 2, 'b': 4, 'c': 8, 'd': 10, 'e': 30}
