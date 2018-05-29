@@ -16,5 +16,5 @@ finally:
     if(d % q > 0):
         print('The remainder of the operation is: {}'.format(remainder))
 
-
+#teste
 # print(((225 * 100) / 197) - 100)
